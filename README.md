@@ -28,6 +28,11 @@
 | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)     | Intermediate |
 
 
+| Framework                                                                                                         | Proficiency  |  
+| ----------------------------------------------------------------------------------------------------------------- | ------------ | 
+| ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)     | Intermediate | 
+| ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)              | Intermediate | 
+
 
 <h3 align="left"> Github Stats:</h3>
 <a href="https://github.com/anggr/anggr">
