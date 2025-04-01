@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **everything 🤣**
 
-- 👨‍💻 All of my projects are available at [okky.me](okky.me)
+- 👨‍💻 All of my projects are available at Everywhere
 
 - 📫 How to reach me **anggorookky@gmail.com**
 
