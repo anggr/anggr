@@ -1,5 +1,5 @@
 <h1 align="center">Hello World, I'm Okky 👋</h1>
-<h2 align="center">Software Engineer and Digital Marketer </h2>
+<h2 align="center">Software Engineer and Marketer </h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anggr&label=Profile%20views&color=0e75b6&style=flat" alt="anggr" /> </p>
 
