@@ -2,7 +2,7 @@
   <img src="./assets/after-hours.gif" alt="A floating pixel ghost inside a little playground window." width="160" />
   <br />
   <br />
-  <samp>low profile. high curiosity.</samp>
+  <samp>high octane curiosity. building things.</samp>
   <br />
   <br />
   <a href="https://github.com/anggr?tab=repositories">explore the repos ↗</a>
@@ -24,7 +24,7 @@ Some turn into useful tools. Some stay little experiments. Both belong here.
 Tools I work with, tinker with, and keep coming back to:
 
 <p>
-  <code>JavaScript</code> &nbsp; <code>TypeScript</code> &nbsp; <code>React</code> &nbsp; <code>Next.js</code>
+  <code>TypeScript</code> &nbsp; <code>React</code> &nbsp; <code>ComfyUI</code>
 </p>
 <p>
   <code>Node.js</code> &nbsp; <code>Prisma</code> &nbsp; <code>PostgreSQL</code> &nbsp; <code>Git</code>
