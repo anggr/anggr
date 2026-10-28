@@ -1,5 +1,5 @@
 ﻿<div align="center">
-  <img src="./assets/after-hours.gif" alt="anggr — a quiet corner of the internet, with a little pixel ghost floating among the stars." width="100%" />
+  <img src="./assets/after-hours.gif" alt="A floating pixel ghost inside a little playground window." width="160" />
   <br />
   <br />
   <samp>low profile. high curiosity.</samp>
@@ -7,7 +7,7 @@
   <br />
   <a href="https://github.com/anggr?tab=repositories">explore the repos ↗</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/anggr?tab=stars">peek at my bookmarks ↗</a>
+  <a href="https://anggoroo.com">visit my site ↗</a>
 </div>
 
 <br />
