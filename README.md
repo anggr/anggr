@@ -24,11 +24,9 @@ Some turn into useful tools. Some stay little experiments. Both belong here.
 Tools I work with, tinker with, and keep coming back to:
 
 <p>
-  <code>TypeScript</code> &nbsp; <code>Stable Diffusion</code> &nbsp; <code>ComfyUI</code>
+  <code>Nodejs</code> &nbsp; <code>Stable Diffusion</code> &nbsp; <code>ComfyUI</code>
 </p>
-<p>
-  <code>Node.js</code> &nbsp; <code>Prisma</code> &nbsp; <code>PostgreSQL</code> &nbsp; <code>Git</code>
-</p>
+
 
 <br />
 
